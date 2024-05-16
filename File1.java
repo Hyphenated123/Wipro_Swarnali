@@ -1,1 +1,11 @@
-Good Morning guys....Hiiii
+
+import java.lang.*;
+
+public class File1
+{
+	public static void main(String[] args)
+	{
+	
+		System.out.println("1st Java");
+        }
+}
